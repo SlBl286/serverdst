@@ -1,0 +1,22 @@
+[01:42:05]: [Join Announcement] Qý
+[01:43:09]: [Join Announcement] Phung
+[01:44:44]: [Death Announcement] Qý was killed by Pig Man. He became a spooky ghost!
+[01:45:03]: [Vote Announcement] rollback passed
+[02:23:27]: [Join Announcement] Steeve
+[02:24:22]: [Announcement] Steeve   Successfully entered game   Completed Achievement [New Beginning]
+[02:30:51]: [Say] (KU_c1gvcKJi) Steeve:  I have 2 cut grass.
+[02:31:04]: [Say] (KU_c1gvcKJi) Steeve:  I have 2 flints.
+[02:32:44]: [Announcement] Steeve   Ate food for the first time   Completed Achievement [First Bite]
+[02:34:00]: [Say] (KU_c1gvcKJi) Steeve:  (7�) I'm a little bit cold.
+[02:35:20]: [Skin Announcement] Qý body_polo_orange_salmon
+[02:35:57]: [Announcement] Phung   Remained immobile for at least 90 minutes   Completed Achievement [Statue]
+[02:50:45]: [Whisper] (KU_c1gvcKJi) Steeve: panflute
+[02:51:44]: [Say] (KU_c1gvcKJi) Steeve:  I have a rocks.
+[02:54:52]: [Say] (KU_c1gvcKJi) Steeve:  (67�) I'm almost overheating!
+[02:54:58]: [Announcement] Steeve   Caught on fire   Completed Achievement [Phoenix from the Ashes]
+[02:54:58]: [Announcement] Qý   Caught on fire   Completed Achievement [Phoenix from the Ashes]
+[02:55:02]: [Death Announcement] Phung was killed by Dragonfly. She became a spooky ghost!
+[02:55:39]: [Vote Announcement] rollback passed
+[02:57:22]: [Leave Announcement] Steeve
+[02:57:22]: [Leave Announcement] Qý
+[02:57:22]: [Leave Announcement] Phung

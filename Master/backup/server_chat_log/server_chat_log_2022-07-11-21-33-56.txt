@@ -1,0 +1,6 @@
+[00:02:31]: [Join Announcement] Qý
+[00:02:58]: [Announcement] Qý   成功进入游戏   获得成就【新的开始】
+[00:06:08]: [Announcement] Qý   吃下第一个食物   获得成就【第一口】
+[00:10:24]: [Death Announcement] Qý was killed by Darkness. He became a spooky ghost!
+[00:10:24]: [Announcement] Qý   死于黑暗   获得成就【萌新】
+[00:11:04]: [Leave Announcement] Qý

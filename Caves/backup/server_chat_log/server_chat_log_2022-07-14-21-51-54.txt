@@ -1,0 +1,197 @@
+[00:01:44]: [Join Announcement] Qý
+[00:02:29]: [Join Announcement] Steeve
+[00:03:51]: [Join Announcement] Phung
+[00:15:10]: [Announcement] Steeve   Caught on fire   Completed Achievement [Phoenix from the Ashes]
+[00:15:11]: [Announcement] Qý   Caught on fire   Completed Achievement [Phoenix from the Ashes]
+[00:16:09]: [Death Announcement] Steeve was killed by Dragonfly. She became a spooky ghost!
+[00:16:28]: [Vote Announcement] rollback passed
+[00:20:34]: [Announcement] Steeve   Caught on fire   Completed Achievement [Phoenix from the Ashes]
+[00:21:00]: [Death Announcement] Steeve was killed by Fire. She became a spooky ghost!
+[00:21:01]: [Announcement] Qý   Caught on fire   Completed Achievement [Phoenix from the Ashes]
+[00:21:06]: [Vote Announcement] rollback passed
+[00:21:06]: [Death Announcement] Phung was killed by Fire. She became a spooky ghost!
+[00:25:42]: [Say] (KU_c1gvcKJi) Steeve:  I have a hot thermal stone with 25% durability.
+[00:27:12]: [Skin Announcement] Phung feet_wes_yule
+[00:34:09]: [Say] (KU_c1gvcKJi) Steeve:  (Sanity: 30/121) These shadows pass right through my spear...
+[00:34:19]: [Say] (KU_c1gvcKJi) Steeve:  (Sanity: 14/121) Stay back, beasts of darkness!
+[00:34:30]: [Say] (KU_c1gvcKJi) Steeve:  (Sanity: 13/121) Stay back, beasts of darkness!
+[00:35:09]: [Say] (KU_c1gvcKJi) Steeve:  (Sanity: 27/121) These shadows pass right through my spear...
+[00:35:34]: [Skin Announcement] Steeve body_swimsuit2_blue_lightning
+[00:36:30]: [Say] (KU_c1gvcKJi) Steeve:  (Sanity: 40/121) These shadows pass right through my spear...
+[00:36:38]: [Say] (KU_Xe3YI5JC) Qý:  (󰀓 123/201) I'll be fine.
+[00:44:56]: [Say] (KU_c1gvcKJi) Steeve:  I need 2 more gold nuggets to make a battle spear.
+[00:45:55]: [Announcement] Steeve   Caught on fire   Completed Achievement [Phoenix from the Ashes]
+[00:45:55]: [Announcement] Qý   Caught on fire   Completed Achievement [Phoenix from the Ashes]
+[00:45:58]: [Death Announcement] Phung was killed by Overheating. She became a spooky ghost!
+[00:46:06]: [Death Announcement] Qý was killed by Fire. He became a spooky ghost!
+[00:46:25]: [Vote Announcement] rollback passed
+[00:49:59]: [Death Announcement] Phung was killed by Tentacle. She became a spooky ghost!
+[00:50:11]: [Resurrect Announcement] Phung was resurrected by Shenanigans.
+[01:00:23]: [Death Announcement] Phung was killed by Darkness. She became a spooky ghost!
+[01:00:23]: [Announcement] Phung   Got killed by Charlie   Completed Achievement [Noobish Newbie]
+[01:02:10]: [Announcement] Qý   Ate 100 food items   Completed Achievement [Connoisseur]
+[01:03:09]: [Resurrect Announcement] Phung was resurrected by Touch Stone.
+[01:03:50]: [Say] (KU_Xe3YI5JC) Qý:  (Health: 33/151) I'm... I'm not going to make it...
+[01:03:51]: [Say] (KU_Xe3YI5JC) Qý:  (Hunger: 19/151) I... need... food...
+[01:05:28]: [Say] (KU_c1gvcKJi) Steeve:  I have 2 telltale hearts.
+[01:06:03]: [Say] (KU_Xe3YI5JC) Qý:  (Health: 5/151) I'm... I'm not going to make it...
+[01:06:23]: [Death Announcement] Phung was killed by Freezing. She became a spooky ghost!
+[01:06:58]: [Say] (KU_c1gvcKJi) Steeve:  (Sanity: 32/121) These shadows pass right through my spear...
+[01:07:09]: [Resurrect Announcement] Phung was resurrected by Steeve.
+[01:07:10]: [Say] (KU_c1gvcKJi) Steeve:  (Sanity: 111/121) I fear no mortal!
+[01:07:21]: [Say] (KU_c1gvcKJi) Steeve:  (Health: 104/201) I'm wounded, but I can still fight.
+[01:08:09]: [Say] (KU_Xe3YI5JC) Qý:  (Health: 10/151) I'm... I'm not going to make it...
+[01:08:22]: [Death Announcement] Phung was killed by Darkness. She became a spooky ghost!
+[01:08:30]: [Say] (KU_c1gvcKJi) Steeve:  I have a cut grass.
+[01:08:37]: [Say] (KU_c1gvcKJi) Steeve:  I have a telltale heart.
+[01:08:46]: [Say] (KU_Xe3YI5JC) Qý:  (Health: 14/151) I'm... I'm not going to make it...
+[01:08:47]: [Say] (KU_Xe3YI5JC) Qý:  (󰀓 33/201) Wha-- what's going on!?
+[01:08:48]: [Say] (KU_Xe3YI5JC) Qý:  (Hunger: 33/151) I'm really hungry!
+[01:09:08]: [Say] (KU_c1gvcKJi) Steeve:  I have a cut grass.
+[01:09:10]: [Say] (KU_c1gvcKJi) Steeve:  I have a lantern with 27% durability.
+[01:10:28]: [Resurrect Announcement] Phung was resurrected by Qý.
+[01:10:58]: [Say] (KU_Xe3YI5JC) Qý:  (Health: 8/151) I'm... I'm not going to make it...
+[01:11:57]: [Say] (KU_c1gvcKJi) Steeve:  I have 4 spider glands.
+[01:11:58]: [Say] (KU_c1gvcKJi) Steeve:  I have a telltale heart.
+[01:12:27]: [Say] (KU_Xe3YI5JC) Qý:  (Hunger: 11/151) I... need... food...
+[01:13:12]: [Announcement] Steeve   Got frozen   Completed Achievement [Too Cool for School]
+[01:14:05]: [Say] (KU_c1gvcKJi) Steeve:  I have a tam o' shanter with 100% durability.
+[01:15:01]: [Say] (KU_Xe3YI5JC) Qý:  (Hunger: 13/151) I... need... food...
+[01:16:14]: [Say] (KU_Xe3YI5JC) Qý:  (Health: 140/151) I'm hurt, but I can keep going.
+[01:16:15]: [Say] (KU_Xe3YI5JC) Qý:  (Hunger: 143/151) I'm stuffed!
+[01:16:26]: [Skin Announcement] Qý hand_longgloves_white_pure
+[01:22:11]: [Say] (KU_c1gvcKJi) Steeve:  I have 2 walrus tusks.
+[01:24:29]: [Announcement] Qý   Remained immobile for at least 90 minutes   Completed Achievement [Statue]
+[01:24:39]: [Death Announcement] Steeve was killed by Tentacle. She became a spooky ghost!
+[01:24:48]: [Resurrect Announcement] Steeve was resurrected by Shenanigans.
+[01:26:33]: [Death Announcement] Phung was killed by Pig Man. She became a spooky ghost!
+[01:26:37]: [Resurrect Announcement] Phung was resurrected by Steeve.
+[01:26:51]: [Say] (KU_c1gvcKJi) Steeve:  We need more booster shots.
+[01:26:53]: [Say] (KU_c1gvcKJi) Steeve:  I need 8 more rots to make a booster shot.
+[01:26:54]: [Say] (KU_c1gvcKJi) Steeve:  I need 2 more nitres to make a booster shot.
+[01:26:55]: [Say] (KU_c1gvcKJi) Steeve:  I need 1 more stinger to make a booster shot.
+[01:27:01]: [Say] (KU_c1gvcKJi) Steeve:  I have 9 rots.
+[01:28:45]: [Say] (KU_c1gvcKJi) Steeve:  I have a rot.
+[01:33:06]: [Say] (KU_c1gvcKJi) Steeve:  I need 8 more silks to make a puffy vest.
+[01:33:08]: [Say] (KU_c1gvcKJi) Steeve:  I need 2 more beefalo wools to make a puffy vest.
+[01:39:28]: [Skin Announcement] Phung legs_wes_yule
+[01:40:14]: [Say] (KU_c1gvcKJi) Steeve:  I have 6 light bulbs, and this one has 93% freshness.
+[01:43:49]: [Announcement] Qý   Got frozen   Completed Achievement [Too Cool for School]
+[01:44:28]: [Say] (KU_c1gvcKJi) Steeve:  I have a fish cordon bleu with 100% freshness.
+[01:44:33]: [Say] (KU_c1gvcKJi) Steeve:  I have a taffy with 100% freshness.
+[01:44:38]: [Say] (KU_c1gvcKJi) Steeve:  We have a fish cordon bleu in this ice box with 100% freshness.
+[01:48:07]: [Say] (KU_c1gvcKJi) Steeve:  I need 4 more gold nuggets to make a birdcage.
+[01:48:30]: [Skin Announcement] Steeve hand_waxwell_victorian
+[01:48:33]: [Death Announcement] Phung was killed by Freezing. She became a spooky ghost!
+[01:48:46]: [Resurrect Announcement] Phung was resurrected by Shenanigans.
+[01:49:50]: [Death Announcement] Qý was killed by Terrorbeak. He became a spooky ghost!
+[01:49:55]: [Resurrect Announcement] Qý was resurrected by Shenanigans.
+[01:50:07]: [Say] (KU_c1gvcKJi) Steeve:  I need 7 more twigs to make an eyebrella.
+[01:50:51]: [Say] (KU_c1gvcKJi) Steeve:  I need 2 more seeds to make a birdcage.
+[01:59:09]: [Say] (KU_c1gvcKJi) Steeve:  We have a taffy in this ice box with 95% freshness.
+[02:00:08]: [Say] (KU_c1gvcKJi) Steeve:  We need more garden digamajigs.
+[02:02:23]: [Say] (KU_c1gvcKJi) Steeve:  Can someone make me a garden hoe? I would need a Science Machine for it.
+[02:08:03]: [Death Announcement] Qý was killed by Goose. He became a spooky ghost!
+[02:08:06]: [Resurrect Announcement] Qý was resurrected by Shenanigans.
+[02:09:31]: [Say] (KU_c1gvcKJi) Steeve:  I have 4 battle helms, and this one has 100% durability.
+[02:10:46]: [Say] (KU_c1gvcKJi) Steeve:  I have 8 pierogis, and this one has 91% freshness.
+[02:10:48]: [Say] (KU_c1gvcKJi) Steeve:  I have 5 battle helms, and this one has 100% durability.
+[02:11:40]: [Say] (KU_c1gvcKJi) Steeve:  I have 8 pierogis, and this one has 91% freshness.
+[02:14:27]: [Say] (KU_c1gvcKJi) Steeve:  (Inspiration: 74/100) I could sing a duet by myself!
+[02:15:17]: [Announcement] Steeve   Caught on fire   Completed Achievement [Phoenix from the Ashes]
+[02:15:17]: [Announcement] Qý   Caught on fire   Completed Achievement [Phoenix from the Ashes]
+[02:15:22]: [Death Announcement] Phung was killed by Dragonfly. She became a spooky ghost!
+[02:15:41]: [Death Announcement] Qý was killed by Dragonfly. He became a spooky ghost!
+[02:16:03]: [Vote Announcement] rollback passed
+[02:18:48]: [Say] (KU_c1gvcKJi) Steeve:  I need 1 more cut grass to make a campfire.
+[02:19:28]: [Say] (KU_c1gvcKJi) Steeve:  I have a ham bat with 62% freshness.
+[02:24:00]: [Death Announcement] Qý was killed by Dragonfly. He became a spooky ghost!
+[02:24:05]: [Death Announcement] Phung was killed by Dragonfly. She became a spooky ghost!
+[02:24:44]: [Resurrect Announcement] Qý was resurrected by Shenanigans.
+[02:24:46]: [Resurrect Announcement] Phung was resurrected by Shenanigans.
+[02:25:55]: [Say] (KU_c1gvcKJi) Steeve:  I need 10 more charcoals to make a scaled furnace.
+[02:26:58]: [Say] (KU_c1gvcKJi) Steeve:  I have an eyebrella with 86% durability.
+[02:27:46]: [Skin Announcement] Qý legs_skirt_pleated_brown_walnut
+[02:28:40]: [Say] (KU_DfIX62vc) Phung: t mat chi r
+[02:28:41]: [Say] (KU_c1gvcKJi) Steeve:  I need 4 more boards to make a scaled chest.
+[02:28:50]: [Say] (KU_DfIX62vc) Phung: bi chay r
+[02:28:56]: [Say] (KU_c1gvcKJi) Steeve:  We have a flower salad in this ice box with 90% freshness.
+[02:28:57]: [Say] (KU_c1gvcKJi) Steeve:  We have a fish cordon bleu in this ice box with 69% freshness.
+[02:31:26]: [Say] (KU_c1gvcKJi) Steeve:  I need 4 more rabbits to make a prestihatitator.
+[02:31:30]: [Say] (KU_c1gvcKJi) Steeve:  I need 6 more cut grass to make a trap.
+[02:31:57]: [Say] (KU_DfIX62vc) Phung: lam chi kieeru j :)
+[02:32:16]: [Say] (KU_DfIX62vc) Phung: morning
+[02:32:47]: [Leave Announcement] Steeve
+[02:33:24]: [Join Announcement] Steeve
+[02:45:58]: [Say] (KU_c1gvcKJi) Steeve:  I have a splendid garden hoe with 100% durability.
+[02:46:21]: [Say] (KU_c1gvcKJi) Steeve:  I need 2 more boards to make an empty watering can.
+[02:47:58]: [Death Announcement] Phung was killed by Darkness. She became a spooky ghost!
+[02:48:04]: [Resurrect Announcement] Phung was resurrected by Shenanigans.
+[02:49:58]: [Announcement] Steeve   Remained immobile for at least 90 minutes   Completed Achievement [Statue]
+[02:53:47]: [Skin Announcement] Steeve legs_wanda_steampunk
+[02:54:22]: [Say] (KU_Xe3YI5JC) Qý:  I have 2 bunny stews, and this one has 85% freshness.
+[02:54:27]: [Say] (KU_Xe3YI5JC) Qý:  I have 3 meatballs, and this one has 88% freshness.
+[02:58:05]: [Say] (KU_DfIX62vc) Phung: cai ashes kiem kieu j
+[02:58:10]: [Say] (KU_c1gvcKJi) Steeve:  I have 2 pine cones.
+[03:00:04]: [Say] (KU_c1gvcKJi) Steeve:  We have a fish cordon bleu in this ice box with 43% freshness.
+[03:00:10]: [Say] (KU_c1gvcKJi) Steeve:  We have a volt goat chaud-froid in this ice box with 67% freshness.
+[03:00:19]: [Say] (KU_Xe3YI5JC) Qý:  I have 3 gold nuggets.
+[03:04:34]: [Skin Announcement] Phung legs_pinstripe_pants_black_jet
+[03:06:03]: [Say] (KU_c1gvcKJi) Steeve:  I have a scalemail with 81% durability.
+[03:11:38]: [Death Announcement] Phung was killed by Terrorbeak. She became a spooky ghost!
+[03:13:03]: [Death Announcement] Steeve was killed by Terrorbeak. She became a spooky ghost!
+[03:13:09]: [Resurrect Announcement] Phung was resurrected by Shenanigans.
+[03:13:14]: [Resurrect Announcement] Steeve was resurrected by Shenanigans.
+[03:13:51]: [Leave Announcement] Steeve
+[03:20:50]: [Leave Announcement] Phung
+[03:25:09]: [Leave Announcement] Qý
+[23:02:53]: [Join Announcement] Phung
+[23:03:21]: [Join Announcement] Qý
+[23:03:38]: [Death Announcement] Qý was killed by Varglet. He became a spooky ghost!
+[23:04:33]: [Vote Announcement] rollback passed
+[23:06:19]: [Say] (KU_DfIX62vc) Phung: ua ai nghe thaasy t k
+[23:06:54]: [Join Announcement] Steeve
+[23:08:09]: [Leave Announcement] Steeve
+[23:09:06]: [Join Announcement] Steeve
+[23:13:20]: [Say] (KU_DfIX62vc) Phung: hom
+[23:16:09]: [Say] (KU_DfIX62vc) Phung: k nghe thay t noi j af
+[23:24:51]: [Say] (KU_DfIX62vc) Phung: ee
+[23:24:59]: [Say] (KU_DfIX62vc) Phung: co con nafy r
+[23:25:23]: [Say] (KU_DfIX62vc) Phung: pippook
+[23:25:40]: [Say] (KU_DfIX62vc) Phung: no di theo t
+[23:25:48]: [Say] (KU_DfIX62vc) Phung: k nghe thaay t noi j ak
+[23:25:54]: [Say] (KU_DfIX62vc) Phung: dkm
+[23:26:52]: [Skin Announcement] Qý body_tweedvest_blue_lightning
+[23:29:50]: [Say] (KU_c1gvcKJi) Steeve:  I have 50 carrots, and this one has 91% freshness.
+[23:31:42]: [Say] (KU_DfIX62vc) Phung: xin ao mua
+[23:31:46]: [Say] (KU_DfIX62vc) Phung: uot sung r
+[23:31:54]: [Say] (KU_DfIX62vc) Phung: dua qy
+[23:32:31]: [Say] (KU_DfIX62vc) Phung: uot 100 r
+[23:32:53]: [Say] (KU_DfIX62vc) Phung: co thay giarm ddaau
+[23:33:15]: [Say] (KU_Xe3YI5JC) Qý:  (󰀓 32/202) Wha-- what's going on!?
+[23:33:21]: [Say] (KU_Xe3YI5JC) Qý:  (Hunger: 101/152) I don't need to eat.
+[23:33:22]: [Say] (KU_DfIX62vc) Phung: sap het nao r
+[23:33:50]: [Say] (KU_DfIX62vc) Phung: k co chi
+[23:33:55]: [Say] (KU_DfIX62vc) Phung: b dot chi t r
+[23:34:16]: [Death Announcement] Phung was killed by Terrorbeak. She became a spooky ghost!
+[23:34:16]: [Announcement] Phung   Died at least 10 times   Completed Achievement [Ghostly]
+[23:34:22]: [Say] (KU_DfIX62vc) Phung: chet me r :)
+[23:34:31]: [Say] (KU_DfIX62vc) Phung: tu dung hoi sinh t
+[23:34:38]: [Say] (KU_DfIX62vc) Phung: t chinh discord da
+[23:37:02]: [Say] (KU_DfIX62vc) Phung: mang t lag vcl
+[23:37:25]: [Say] (KU_Xe3YI5JC) Qý:  (󰀓 23/202) Help! Those things are gonna eat me!!
+[23:37:30]: [Say] (KU_DfIX62vc) Phung: sang sv new dc k cac ban
+[23:37:40]: [Say] (KU_DfIX62vc) Phung: hs tui ik
+[23:37:54]: [Resurrect Announcement] Phung was resurrected by Shenanigans.
+[23:38:17]: [Death Announcement] Qý was killed by Crawling Horror. He became a spooky ghost!
+[23:38:31]: [Resurrect Announcement] Qý was resurrected by Shenanigans.
+[23:40:43]: [Leave Announcement] Qý
+[23:42:11]: [Join Announcement] Qý
+[23:54:10]: [Say] (KU_DfIX62vc) Phung: sao t laji k nghe thay rif nua
+[23:54:21]: [Say] (KU_Xe3YI5JC) Qý: lag b oi
+[23:54:30]: [Say] (KU_DfIX62vc) Phung: ai lag
+[23:55:01]: [Say] (KU_Xe3YI5JC) Qý: b lag chu ai
+[23:55:10]: [Say] (KU_DfIX62vc) Phung: laji laf t ak
+[23:57:45]: [Say] (KU_DfIX62vc) Phung: alo
+[00:00:20]: [Announcement] Phung   Stayed completed wet over 600 seconds   Completed Achievement [Soaking wet]
+[00:00:28]: [Say] (KU_Xe3YI5JC) Qý:  I have a warm thermal stone with 13% durability.

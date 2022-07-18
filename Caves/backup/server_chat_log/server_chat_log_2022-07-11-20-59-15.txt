@@ -1,0 +1,4 @@
+[04:14:40]: [Join Announcement] Qý
+[04:14:40]: [Death Announcement] Qý was killed by Killer Bee. He became a spooky ghost!
+[04:14:40]: [Roll Announcement] (KU_Xe3YI5JC) Qý 26 (1-100)
+[04:14:40]: [Leave Announcement] Qý

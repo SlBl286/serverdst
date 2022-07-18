@@ -1,0 +1,935 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 32%
+	Available Physical Memory: 5425m/8074m
+	Available Page File: 7205m/9994m
+	Available Virtual Memory: 134213508m/134217727m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 11m
+	Working Set Size: 11m
+	Quota Peak Page Pool Usage: 168k
+	Quota Page Pool Usage: 167k
+	Quota Peak Non Paged Pool Usage:12k
+	Quota Non Paged Pool Usage: 12k
+	Page File Usage: 3m
+	Peak Page File Usage: 3m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/MyDediServer/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 514408
+[00:00:00]: Current time: Mon Jul 11 14:32:34 2022
+
+[00:00:00]: Don't Starve Together: 514408 WIN32
+[00:00:00]: Build Date: 1235
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -console -cluster MyDediServer -shard Master 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: THREAD - started 'GAClient' (7864)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 27018)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: ProfileIndex:5.85
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: THREAD - started 'Ping Job Thread' (9720)
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application c:\steamcmd\steamapps\common\Don't Starve Together Dedicated Server\bin64\dontstarve_dedicated_server_nullrenderer_x64.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/MyDediServer/blocklist.txt (Failure)
+[00:00:01]: THREAD - started 'StreamInput' (1180)
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/MyDediServer/adminlist.txt (Failure)
+[00:00:01]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/MyDediServer/whitelist.txt (Failure)
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Home Single Language
+    version                   10.0.19044
+    platformSpecific          SP 0.0
+    architecture              64-bit
+  CPU                       
+    clockSpeed                2400
+    name                      Intel(R) Core(TM) i3-3110M CPU @ 2.40GHz
+    manufacturer              GenuineIntel
+    numCores                  2
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    megsOfRam                 2112
+    videoModeDescription      1024 x 768 x 4294967296 colors
+    name                      Intel(R) HD Graphics 4000
+    driverVersion             10.18.10.4252
+    driverDate                20150710000000.000000-000
+    refreshRate               60
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: AppVersion::GetArchitecture() x64
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:02]:   taskgrouplist:	default	Together	
+[00:00:02]:   taskgrouplist:	classic	Classic	
+[00:00:02]:   taskgrouplist:	cave_default	Underground	
+[00:00:02]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:02]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:02]: Running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:02]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:04]: LOADING LUA SUCCESS
+[00:00:04]: PlayerDeaths could not load morgue	
+[00:00:04]: PlayerHistory could not load player_history	
+[00:00:04]: ServerPreferences could not load server_preferences	
+[00:00:04]: bloom_enabled	true	
+[00:00:04]: OnFilesLoaded()	
+[00:00:04]: OnUpdatePurchaseStateComplete	
+[00:00:04]: Klump load on boot started.	
+[00:00:04]: Klump files loaded: 	0	
+[00:00:07]: 	Load FE	
+[00:00:08]: 	Load FE: done	
+[00:00:08]: THREAD - started 'FilesExistAsyncThread' (9552)
+[00:00:08]: FilesExistAsyncThread started (20261 files)...
+[00:00:08]: Check for write access: TRUE
+[00:00:08]: Check for read access: TRUE
+[00:00:08]: Available disk space for save files: 25608 MB
+[00:00:08]: ModIndex: Load sequence finished successfully.	
+[00:00:08]: Reset() returning
+[00:00:08]: [200] Account Communication Success (6)
+[00:00:08]: Cached userid (null) saved to APP:Klei//DoNotStarveTogether/MyDediServer/Master/save/cached_userid
+[00:00:08]: Received (KU_Xe3YI5JC) from TokenPurpose
+[00:00:08]: Starting Dedicated Server Game	
+[00:00:08]: Network tick rate: U=15(2), D=0
+[00:00:08]: About to start a server with the following settings:
+[00:00:08]:   Dedicated: true
+[00:00:08]:   Online: true
+[00:00:08]:   Passworded: true
+[00:00:08]:   ServerPort: 10999
+[00:00:08]:   SteamAuthPort: 8768
+[00:00:08]:   SteamMasterServerPort: 27018
+[00:00:08]:   ClanID: false
+[00:00:08]:   ClanOnly: false
+[00:00:08]:   ClanAdmin: false
+[00:00:08]:   LanOnly: false
+[00:00:08]:   FriendsOnly: false
+[00:00:08]:   EnableAutosaver: true
+[00:00:08]:   EncodeUserPath: true
+[00:00:08]:   PVP: false
+[00:00:08]:   MaxPlayers: 10
+[00:00:08]:   GameMode: survival
+[00:00:08]:   OverridenDNS: 
+[00:00:08]:   PauseWhenEmpty: true
+[00:00:08]:   IdleTimeout: 1800s
+[00:00:08]:   VoteEnabled: true
+[00:00:08]:   InternetBroadcasting: true
+[00:00:08]:   Intent: cooperative
+[00:00:09]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:00:09]: Online Server Started on port: 10999
+[00:00:09]: Not applying level data overrides.	
+[00:00:09]: Not applying world gen overrides.	
+[00:00:09]: Collecting garbage...
+[00:00:09]: lua_gc took 0.13 seconds
+[00:00:09]: ~ShardLuaProxy()
+[00:00:09]: ~cEventLeaderboardProxy()
+[00:00:09]: ~ItemServerLuaProxy()
+[00:00:09]: ~InventoryLuaProxy()
+[00:00:09]: ~NetworkLuaProxy()
+[00:00:09]: ~SimLuaProxy()
+[00:00:09]: FilesExistAsyncThread aborted.
+[00:00:09]: ... FilesExistAsyncThread complete
+[00:00:09]: lua_close took 0.18 seconds
+[00:00:09]: ReleaseAll
+[00:00:09]: ReleaseAll Finished
+[00:00:09]: cGame::StartPlaying
+[00:00:09]: AppVersion::GetArchitecture() x64
+[00:00:09]: LOADING LUA
+[00:00:09]: DoLuaFile scripts/main.lua
+[00:00:09]: DoLuaFile loading buffer scripts/main.lua
+[00:00:10]:   taskgrouplist:	default	Together	
+[00:00:10]:   taskgrouplist:	classic	Classic	
+[00:00:10]:   taskgrouplist:	cave_default	Underground	
+[00:00:10]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:10]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:10]: Running main.lua
+	
+[00:00:10]: loaded modindex	
+[00:00:10]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:10]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:10]: LOADING LUA SUCCESS
+[00:00:10]: PlayerDeaths could not load morgue	
+[00:00:10]: PlayerHistory could not load player_history	
+[00:00:10]: ServerPreferences could not load server_preferences	
+[00:00:10]: bloom_enabled	true	
+[00:00:10]: OnFilesLoaded()	
+[00:00:10]: OnUpdatePurchaseStateComplete	
+[00:00:10]: Loading world: session/6415314ECD21339D/0000000004	
+[00:00:11]: Save file is at version 5.12	
+[00:00:11]: Klump load on boot started.	
+[00:00:11]: Klump files loaded: 	0	
+[00:00:11]: 	Unload FE	
+[00:00:11]: 	Unload FE done	
+[00:00:13]: 	LOAD BE	
+[00:00:27]: 	LOAD BE: done	
+[00:00:27]: Begin Session: 6415314ECD21339D
+[00:00:27]: saving to server_temp/server_save	
+[00:00:28]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:28]: Loading 19 new character(s)	
+[00:00:29]: Total 19 character(s) loaded	
+[00:00:30]: Loading Nav Grid	
+[00:00:30]: World generated on build 514408 with save version: 5.12, using seed: 1657466819	
+[00:00:30]: setting 	summerlength	15	
+[00:00:30]: setting 	cavemoonphase	new	
+[00:00:30]: setting 	iscavefullmoon	false	
+[00:00:30]: setting 	isnightmaredawn	false	
+[00:00:30]: setting 	elapseddaysinseason	0	
+[00:00:30]: setting 	isfullmoon	false	
+[00:00:30]: setting 	moisture	0.058333333581686	
+[00:00:30]: setting 	cavephase	day	
+[00:00:30]: setting 	iscavewaxingmoon	true	
+[00:00:30]: setting 	isnightmarewild	false	
+[00:00:30]: setting 	nightmaretimeinphase	0	
+[00:00:30]: setting 	precipitationrate	0	
+[00:00:30]: setting 	iswet	false	
+[00:00:30]: setting 	isnewmoon	false	
+[00:00:30]: setting 	precipitation	none	
+[00:00:30]: setting 	israining	false	
+[00:00:30]: setting 	isnightmarewarn	false	
+[00:00:30]: setting 	iswinter	false	
+[00:00:30]: setting 	season	autumn	
+[00:00:30]: setting 	remainingdaysinseason	20	
+[00:00:30]: setting 	winterlength	15	
+[00:00:30]: setting 	iscaveday	true	
+[00:00:30]: setting 	moistureceil	702.75616455078	
+[00:00:30]: setting 	isday	true	
+[00:00:30]: setting 	springlength	20	
+[00:00:30]: setting 	wetness	0	
+[00:00:30]: setting 	iscavedusk	false	
+[00:00:30]: setting 	isalterawake	false	
+[00:00:30]: setting 	isnightmarecalm	false	
+[00:00:30]: setting 	isnight	false	
+[00:00:30]: setting 	isdusk	false	
+[00:00:30]: setting 	isspring	false	
+[00:00:30]: setting 	isautumn	true	
+[00:00:30]: setting 	issnowing	false	
+[00:00:30]: setting 	iswaxingmoon	true	
+[00:00:30]: setting 	phase	day	
+[00:00:30]: setting 	snowlevel	0	
+[00:00:30]: setting 	issnowcovered	false	
+[00:00:30]: setting 	autumnlength	20	
+[00:00:30]: setting 	pop	8.3006505704541e-005	
+[00:00:30]: setting 	nightmaretime	0	
+[00:00:30]: setting 	seasonprogress	0.5	
+[00:00:30]: setting 	moonphase	new	
+[00:00:30]: setting 	nightmarephase	none	
+[00:00:30]: setting 	cycles	0	
+[00:00:30]: setting 	timeinphase	0.00097242991129554	
+[00:00:30]: setting 	iscavenight	false	
+[00:00:30]: setting 	iscavenewmoon	false	
+[00:00:30]: setting 	issummer	false	
+[00:00:30]: setting 	temperature	30.059774963915	
+[00:00:30]: setting 	time	0.00048621495564777	
+[00:00:37]: Reconstructing topology	
+[00:00:37]: 	...Sorting points	
+[00:00:37]: 	...Sorting edges	
+[00:00:37]: 	...Connecting nodes	
+[00:00:37]: 	...Validating connections	
+[00:00:37]: 	...Housekeeping	
+[00:00:37]: 	...Done!	
+[00:00:37]: 1 uploads added to server. From server_temp
+[00:00:37]: About to start a shard with these settings:
+[00:00:37]:   ShardName: [SHDMASTER]
+[00:00:37]:   ShardID: 1
+[00:00:37]:   ShardRole: MASTER
+[00:00:37]:   MasterHost: (null)
+[00:00:37]:   MasterBind: 127.0.0.1
+[00:00:37]:   MasterPort: 10889
+[00:00:37]: [Shard] Starting master server
+[00:00:37]: [Warning] Could not confirm port 10889 is open in the firewall. 
+[00:00:37]: [Shard] Shard server started on port: 10889
+[00:00:37]: Telling Client our new session identifier: 6415314ECD21339D
+[00:00:37]: Check for write access: TRUE
+[00:00:37]: Check for read access: TRUE
+[00:00:37]: Available disk space for save files: 25606 MB
+[00:00:37]: ModIndex: Load sequence finished successfully.	
+[00:00:38]: Reset() returning
+[00:00:38]: Validating portal[2] <-> 3739312265[2] (inactive)	
+[00:00:38]: Validating portal[3] <-> 3739312265[3] (inactive)	
+[00:00:38]: Validating portal[8] <-> 3739312265[8] (inactive)	
+[00:00:38]: Validating portal[1] <-> 3739312265[1] (inactive)	
+[00:00:39]: Validating portal[6] <-> 3739312265[6] (inactive)	
+[00:00:39]: Validating portal[7] <-> 3739312265[7] (inactive)	
+[00:00:39]: Validating portal[5] <-> 3739312265[5] (inactive)	
+[00:00:39]: Validating portal[4] <-> 3739312265[4] (inactive)	
+[00:00:39]: Validating portal[9] <-> 3739312265[9] (inactive)	
+[00:00:39]: Server registered via geo DNS in Sing
+[00:00:39]: Sim paused
+[00:00:42]: [Shard] Secondary shar Caves(3739312265) connected: [LAN] 127.0.0.1
+[00:00:43]: [Shard] Secondary Caves(3739312265) ready!
+[00:00:43]: World 3739312265 is now connected	
+[00:00:43]: Validating portal[2] <-> 3739312265[2] (disabled)	
+[00:00:43]: Validating portal[3] <-> 3739312265[3] (disabled)	
+[00:00:43]: Validating portal[8] <-> 3739312265[8] (disabled)	
+[00:00:43]: Validating portal[1] <-> 3739312265[1] (disabled)	
+[00:00:43]: Validating portal[6] <-> 3739312265[6] (disabled)	
+[00:00:43]: Validating portal[7] <-> 3739312265[7] (disabled)	
+[00:00:43]: Validating portal[5] <-> 3739312265[5] (disabled)	
+[00:00:43]: Validating portal[4] <-> 3739312265[4] (disabled)	
+[00:00:43]: Validating portal[9] <-> 3739312265[9] (disabled)	
+[00:30:08]: [200] Account Communication Success (6)
+[00:30:08]: Received (KU_Xe3YI5JC) from TokenPurpose
+[01:00:08]: [200] Account Communication Success (6)
+[01:00:08]: Received (KU_Xe3YI5JC) from TokenPurpose
+[01:30:08]: [200] Account Communication Success (6)
+[01:30:08]: Received (KU_Xe3YI5JC) from TokenPurpose
+[02:00:08]: [200] Account Communication Success (6)
+[02:00:08]: Received (KU_Xe3YI5JC) from TokenPurpose
+[02:11:21]: CURL ERROR: (lobby.klei.com) [6]SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054
+[02:11:21]: Failed to send server broadcast message
+[02:11:22]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:11:22]: Failed to send server broadcast message
+[02:11:31]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:11:31]: Failed to send server broadcast message
+[02:11:57]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:11:57]: Failed to send server broadcast message
+[02:12:22]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:12:22]: Failed to send server broadcast message
+[02:12:57]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:12:57]: Failed to send server broadcast message
+[02:13:23]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:13:23]: Failed to send server broadcast message
+[02:13:48]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:13:48]: Failed to send server broadcast message
+[02:14:13]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:14:13]: Failed to send server broadcast message
+[02:14:38]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:14:38]: Failed to send server broadcast message
+[02:15:03]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:15:03]: Failed to send server broadcast message
+[02:15:17]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:15:17]: Failed to send server broadcast message
+[02:15:53]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:15:53]: Failed to send server broadcast message
+[02:16:07]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:16:07]: Failed to send server broadcast message
+[02:16:32]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:16:32]: Failed to send server broadcast message
+[02:16:57]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:16:57]: Failed to send server broadcast message
+[02:17:22]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:17:22]: Failed to send server broadcast message
+[02:17:47]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:17:47]: Failed to send server broadcast message
+[02:18:22]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:18:22]: Failed to send server broadcast message
+[02:18:37]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:18:37]: Failed to send server broadcast message
+[02:19:02]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:19:02]: Failed to send server broadcast message
+[02:19:37]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:19:37]: Failed to send server broadcast message
+[02:20:03]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:20:03]: Failed to send server broadcast message
+[02:20:28]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:20:28]: Failed to send server broadcast message
+[02:20:42]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:20:42]: Failed to send server broadcast message
+[02:21:18]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:21:18]: Failed to send server broadcast message
+[02:21:43]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:21:43]: Failed to send server broadcast message
+[02:21:57]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:21:57]: Failed to send server broadcast message
+[02:22:33]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:22:33]: Failed to send server broadcast message
+[02:22:47]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:22:47]: Failed to send server broadcast message
+[02:23:12]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:23:12]: Failed to send server broadcast message
+[02:23:48]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:23:48]: Failed to send server broadcast message
+[02:24:02]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:24:02]: Failed to send server broadcast message
+[02:24:38]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:24:38]: Failed to send server broadcast message
+[02:24:52]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:24:52]: Failed to send server broadcast message
+[02:25:28]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:25:28]: Failed to send server broadcast message
+[02:25:53]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:25:53]: Failed to send server broadcast message
+[02:26:18]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:26:18]: Failed to send server broadcast message
+[02:26:32]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:26:32]: Failed to send server broadcast message
+[02:27:08]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:27:08]: Failed to send server broadcast message
+[02:27:22]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:27:22]: Failed to send server broadcast message
+[02:27:47]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:27:47]: Failed to send server broadcast message
+[02:28:23]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:28:23]: Failed to send server broadcast message
+[02:28:48]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:28:48]: Failed to send server broadcast message
+[02:29:02]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:29:02]: Failed to send server broadcast message
+[02:29:27]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:29:27]: Failed to send server broadcast message
+[02:29:52]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:29:52]: Failed to send server broadcast message
+[02:30:19]: CURL ERROR: (login.kleientertainment.com) [6]Could not resolve host: login.kleientertainment.com
+[02:30:19]: [0] Account Failed (6): ""
+[02:30:19]: [Warning] Empty error code received, dumping response:
+[02:30:19]: 
+[02:30:19]: [Connect] PendingConnection::Reset(true)
+[02:30:28]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:30:28]: Failed to send server broadcast message
+[02:30:42]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:30:42]: Failed to send server broadcast message
+[02:31:07]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:31:07]: Failed to send server broadcast message
+[02:31:32]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:31:32]: Failed to send server broadcast message
+[02:32:08]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:32:08]: Failed to send server broadcast message
+[02:32:33]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:32:33]: Failed to send server broadcast message
+[02:32:58]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:32:58]: Failed to send server broadcast message
+[02:33:23]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:33:23]: Failed to send server broadcast message
+[02:33:48]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:33:48]: Failed to send server broadcast message
+[02:34:13]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:34:13]: Failed to send server broadcast message
+[02:34:38]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:34:38]: Failed to send server broadcast message
+[02:34:52]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:34:52]: Failed to send server broadcast message
+[02:35:28]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:35:28]: Failed to send server broadcast message
+[02:35:53]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:35:53]: Failed to send server broadcast message
+[02:36:18]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:36:18]: Failed to send server broadcast message
+[02:36:43]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:36:43]: Failed to send server broadcast message
+[02:37:08]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:37:08]: Failed to send server broadcast message
+[02:37:33]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:37:33]: Failed to send server broadcast message
+[02:37:58]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:37:58]: Failed to send server broadcast message
+[02:38:23]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:38:23]: Failed to send server broadcast message
+[02:38:37]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:38:37]: Failed to send server broadcast message
+[02:39:13]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:39:13]: Failed to send server broadcast message
+[02:39:38]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:39:38]: Failed to send server broadcast message
+[02:40:03]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:40:03]: Failed to send server broadcast message
+[02:40:28]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:40:28]: Failed to send server broadcast message
+[02:40:53]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:40:53]: Failed to send server broadcast message
+[02:41:07]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:41:07]: Failed to send server broadcast message
+[02:41:32]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:41:32]: Failed to send server broadcast message
+[02:42:08]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:42:08]: Failed to send server broadcast message
+[02:42:33]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:42:33]: Failed to send server broadcast message
+[02:42:47]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:42:47]: Failed to send server broadcast message
+[02:43:23]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:43:23]: Failed to send server broadcast message
+[02:43:48]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:43:48]: Failed to send server broadcast message
+[02:44:02]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:44:02]: Failed to send server broadcast message
+[02:44:38]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:44:38]: Failed to send server broadcast message
+[02:45:03]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:45:03]: Failed to send server broadcast message
+[02:45:28]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:45:28]: Failed to send server broadcast message
+[02:45:53]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:45:53]: Failed to send server broadcast message
+[02:46:07]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:46:07]: Failed to send server broadcast message
+[02:46:32]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:46:32]: Failed to send server broadcast message
+[02:47:08]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:47:08]: Failed to send server broadcast message
+[02:47:33]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:47:33]: Failed to send server broadcast message
+[02:47:58]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:47:58]: Failed to send server broadcast message
+[02:48:23]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:48:23]: Failed to send server broadcast message
+[02:48:37]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:48:37]: Failed to send server broadcast message
+[02:49:13]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:49:13]: Failed to send server broadcast message
+[02:49:38]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:49:38]: Failed to send server broadcast message
+[02:50:03]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:50:03]: Failed to send server broadcast message
+[02:50:17]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:50:17]: Failed to send server broadcast message
+[02:50:53]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:50:53]: Failed to send server broadcast message
+[02:51:07]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:51:07]: Failed to send server broadcast message
+[02:51:43]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:51:43]: Failed to send server broadcast message
+[02:51:57]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:51:57]: Failed to send server broadcast message
+[02:52:33]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:52:33]: Failed to send server broadcast message
+[02:52:58]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:52:58]: Failed to send server broadcast message
+[02:53:23]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:53:23]: Failed to send server broadcast message
+[02:53:37]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:53:37]: Failed to send server broadcast message
+[02:54:13]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:54:13]: Failed to send server broadcast message
+[02:54:38]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:54:38]: Failed to send server broadcast message
+[02:55:03]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:55:03]: Failed to send server broadcast message
+[02:55:17]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:55:17]: Failed to send server broadcast message
+[02:55:53]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:55:53]: Failed to send server broadcast message
+[02:56:18]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:56:18]: Failed to send server broadcast message
+[02:56:32]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:56:32]: Failed to send server broadcast message
+[02:56:57]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:56:57]: Failed to send server broadcast message
+[02:57:33]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:57:33]: Failed to send server broadcast message
+[02:57:58]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:57:58]: Failed to send server broadcast message
+[02:58:23]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:58:23]: Failed to send server broadcast message
+[02:58:37]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:58:37]: Failed to send server broadcast message
+[02:59:02]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:59:02]: Failed to send server broadcast message
+[02:59:38]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:59:38]: Failed to send server broadcast message
+[02:59:52]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:59:52]: Failed to send server broadcast message
+[03:00:17]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:00:17]: Failed to send server broadcast message
+[03:00:19]: CURL ERROR: (login.kleientertainment.com) [6]Could not resolve host: login.kleientertainment.com
+[03:00:19]: [0] Account Failed (6): ""
+[03:00:19]: [Warning] Empty error code received, dumping response:
+[03:00:19]: 
+[03:00:19]: [Connect] PendingConnection::Reset(true)
+[03:00:42]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:00:42]: Failed to send server broadcast message
+[03:01:07]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:01:07]: Failed to send server broadcast message
+[03:01:32]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:01:32]: Failed to send server broadcast message
+[03:01:57]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:01:57]: Failed to send server broadcast message
+[03:02:33]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:02:33]: Failed to send server broadcast message
+[03:02:58]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:02:58]: Failed to send server broadcast message
+[03:03:12]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:03:12]: Failed to send server broadcast message
+[03:03:48]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:03:48]: Failed to send server broadcast message
+[03:04:13]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:04:13]: Failed to send server broadcast message
+[03:04:38]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:04:38]: Failed to send server broadcast message
+[03:05:03]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:05:03]: Failed to send server broadcast message
+[03:05:17]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:05:17]: Failed to send server broadcast message
+[03:05:42]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:05:42]: Failed to send server broadcast message
+[03:06:07]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:06:07]: Failed to send server broadcast message
+[03:06:43]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:06:43]: Failed to send server broadcast message
+[03:07:08]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:07:08]: Failed to send server broadcast message
+[03:07:22]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:07:22]: Failed to send server broadcast message
+[03:07:58]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:07:58]: Failed to send server broadcast message
+[03:08:12]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:08:12]: Failed to send server broadcast message
+[03:08:37]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:08:37]: Failed to send server broadcast message
+[03:09:13]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:09:13]: Failed to send server broadcast message
+[03:09:27]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:09:27]: Failed to send server broadcast message
+[03:10:03]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:10:03]: Failed to send server broadcast message
+[03:10:17]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:10:17]: Failed to send server broadcast message
+[03:10:53]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:10:53]: Failed to send server broadcast message
+[03:11:18]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:11:18]: Failed to send server broadcast message
+[03:11:32]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:11:32]: Failed to send server broadcast message
+[03:12:08]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:12:08]: Failed to send server broadcast message
+[03:12:33]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:12:33]: Failed to send server broadcast message
+[03:12:58]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:12:58]: Failed to send server broadcast message
+[03:13:12]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:13:12]: Failed to send server broadcast message
+[03:13:48]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:13:48]: Failed to send server broadcast message
+[03:14:02]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:14:02]: Failed to send server broadcast message
+[03:14:27]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:14:27]: Failed to send server broadcast message
+[03:14:52]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:14:52]: Failed to send server broadcast message
+[03:15:17]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:15:17]: Failed to send server broadcast message
+[03:15:53]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:15:53]: Failed to send server broadcast message
+[03:16:07]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:16:07]: Failed to send server broadcast message
+[03:16:32]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:16:32]: Failed to send server broadcast message
+[03:17:08]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:17:08]: Failed to send server broadcast message
+[03:17:22]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:17:22]: Failed to send server broadcast message
+[03:17:58]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:17:58]: Failed to send server broadcast message
+[03:18:12]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:18:12]: Failed to send server broadcast message
+[03:18:48]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:18:48]: Failed to send server broadcast message
+[03:19:13]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:19:13]: Failed to send server broadcast message
+[03:19:27]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:19:27]: Failed to send server broadcast message
+[03:19:52]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:19:52]: Failed to send server broadcast message
+[03:20:17]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:20:17]: Failed to send server broadcast message
+[03:20:42]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:20:42]: Failed to send server broadcast message
+[03:21:18]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:21:18]: Failed to send server broadcast message
+[03:21:43]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:21:43]: Failed to send server broadcast message
+[03:22:08]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:22:08]: Failed to send server broadcast message
+[03:22:33]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:22:33]: Failed to send server broadcast message
+[03:22:58]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:22:58]: Failed to send server broadcast message
+[03:23:12]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:23:12]: Failed to send server broadcast message
+[03:23:48]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:23:48]: Failed to send server broadcast message
+[03:24:13]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:24:13]: Failed to send server broadcast message
+[03:24:38]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:24:38]: Failed to send server broadcast message
+[03:25:03]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:25:03]: Failed to send server broadcast message
+[03:25:17]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:25:17]: Failed to send server broadcast message
+[03:25:53]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:25:53]: Failed to send server broadcast message
+[03:26:18]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:26:18]: Failed to send server broadcast message
+[03:26:32]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:26:32]: Failed to send server broadcast message
+[03:27:08]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:27:08]: Failed to send server broadcast message
+[03:27:33]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:27:33]: Failed to send server broadcast message
+[03:27:58]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:27:58]: Failed to send server broadcast message
+[03:28:23]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:28:23]: Failed to send server broadcast message
+[03:28:48]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:28:48]: Failed to send server broadcast message
+[03:29:13]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:29:13]: Failed to send server broadcast message
+[03:29:38]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:29:38]: Failed to send server broadcast message
+[03:29:52]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:29:52]: Failed to send server broadcast message
+[03:30:17]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:30:17]: Failed to send server broadcast message
+[03:30:19]: CURL ERROR: (login.kleientertainment.com) [6]Could not resolve host: login.kleientertainment.com
+[03:30:19]: [0] Account Failed (6): ""
+[03:30:19]: [Warning] Empty error code received, dumping response:
+[03:30:19]: 
+[03:30:19]: [Connect] PendingConnection::Reset(true)
+[03:30:53]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:30:53]: Failed to send server broadcast message
+[03:31:18]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:31:18]: Failed to send server broadcast message
+[03:31:43]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:31:43]: Failed to send server broadcast message
+[03:32:08]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:32:08]: Failed to send server broadcast message
+[03:32:22]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:32:22]: Failed to send server broadcast message
+[03:32:58]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:32:58]: Failed to send server broadcast message
+[03:33:23]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:33:23]: Failed to send server broadcast message
+[03:33:48]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:33:48]: Failed to send server broadcast message
+[03:34:13]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:34:13]: Failed to send server broadcast message
+[03:34:27]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:34:27]: Failed to send server broadcast message
+[03:35:03]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:35:03]: Failed to send server broadcast message
+[03:35:17]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:35:17]: Failed to send server broadcast message
+[03:35:42]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:35:42]: Failed to send server broadcast message
+[03:36:18]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:36:18]: Failed to send server broadcast message
+[03:36:43]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:36:43]: Failed to send server broadcast message
+[03:36:57]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:36:57]: Failed to send server broadcast message
+[03:37:22]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:37:22]: Failed to send server broadcast message
+[03:37:47]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:37:47]: Failed to send server broadcast message
+[03:38:12]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:38:12]: Failed to send server broadcast message
+[03:38:48]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:38:48]: Failed to send server broadcast message
+[03:39:02]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:39:02]: Failed to send server broadcast message
+[03:39:38]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:39:38]: Failed to send server broadcast message
+[03:40:03]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:40:03]: Failed to send server broadcast message
+[03:40:17]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:40:17]: Failed to send server broadcast message
+[03:40:53]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:40:53]: Failed to send server broadcast message
+[03:41:18]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:41:18]: Failed to send server broadcast message
+[03:41:32]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:41:32]: Failed to send server broadcast message
+[03:42:08]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:42:08]: Failed to send server broadcast message
+[03:42:22]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:42:22]: Failed to send server broadcast message
+[03:42:58]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:42:58]: Failed to send server broadcast message
+[03:43:23]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:43:23]: Failed to send server broadcast message
+[03:43:37]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:43:37]: Failed to send server broadcast message
+[03:44:13]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:44:13]: Failed to send server broadcast message
+[03:44:27]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:44:27]: Failed to send server broadcast message
+[03:45:03]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:45:03]: Failed to send server broadcast message
+[03:45:17]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:45:17]: Failed to send server broadcast message
+[03:45:53]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:45:53]: Failed to send server broadcast message
+[03:46:18]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:46:18]: Failed to send server broadcast message
+[03:46:32]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:46:32]: Failed to send server broadcast message
+[03:46:57]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:46:57]: Failed to send server broadcast message
+[03:47:22]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:47:22]: Failed to send server broadcast message
+[03:47:47]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:47:47]: Failed to send server broadcast message
+[03:48:12]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:48:12]: Failed to send server broadcast message
+[03:48:48]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:48:48]: Failed to send server broadcast message
+[03:49:13]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:49:13]: Failed to send server broadcast message
+[03:49:38]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:49:38]: Failed to send server broadcast message
+[03:50:03]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:50:03]: Failed to send server broadcast message
+[03:50:17]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:50:17]: Failed to send server broadcast message
+[03:50:42]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:50:42]: Failed to send server broadcast message
+[03:51:18]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:51:18]: Failed to send server broadcast message
+[03:51:43]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:51:43]: Failed to send server broadcast message
+[03:51:57]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:51:57]: Failed to send server broadcast message
+[03:52:22]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:52:22]: Failed to send server broadcast message
+[03:52:58]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:52:58]: Failed to send server broadcast message
+[03:53:23]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:53:23]: Failed to send server broadcast message
+[03:53:48]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:53:48]: Failed to send server broadcast message
+[03:54:13]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:54:13]: Failed to send server broadcast message
+[03:54:27]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:54:27]: Failed to send server broadcast message
+[03:55:03]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:55:03]: Failed to send server broadcast message
+[03:55:17]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:55:17]: Failed to send server broadcast message
+[03:55:53]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:55:53]: Failed to send server broadcast message
+[03:56:18]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:56:18]: Failed to send server broadcast message
+[03:56:32]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:56:32]: Failed to send server broadcast message
+[03:57:08]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:57:08]: Failed to send server broadcast message
+[03:57:33]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:57:33]: Failed to send server broadcast message
+[03:57:47]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:57:47]: Failed to send server broadcast message
+[03:58:12]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:58:12]: Failed to send server broadcast message
+[03:58:48]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:58:48]: Failed to send server broadcast message
+[03:59:13]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:59:13]: Failed to send server broadcast message
+[03:59:38]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:59:38]: Failed to send server broadcast message
+[04:00:03]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[04:00:03]: Failed to send server broadcast message
+[04:00:08]: CURL ERROR: (login.kleientertainment.com) [6]Could not resolve host: login.kleientertainment.com
+[04:00:08]: [0] Account Failed (6): ""
+[04:00:08]: [Warning] Empty error code received, dumping response:
+[04:00:08]: 
+[04:00:08]: [Connect] PendingConnection::Reset(true)
+[04:00:28]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[04:00:28]: Failed to send server broadcast message
+[04:00:53]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[04:00:53]: Failed to send server broadcast message
+[04:01:07]: [Error] Master Server Broadcast Error: NOT_IN_DB
+[04:01:17]: Server registered via geo DNS in Sing
+[04:05:45]: [P2P] Session request for '76561198309753427'
+[04:05:48]: [P2P] Create session: 144.195.121.101|1 '76561198309753427'
+[04:05:48]: [P2P] Received from 144.195.121.101|1 '76561198309753427'
+[04:05:48]: [P2P] Sent to 144.195.121.101|1 '76561198309753427'
+[04:05:48]: New incoming connection 144.195.121.101|1 <4151483736665053045>
+[04:05:48]: Client connected from 144.195.121.101|1 <4151483736665053045>
+[04:05:48]: ValidateGameSessionToken pgs-usc^KU_Xe3YI5JC^DontStarveTogether^i/4Y1rVSvzkW6mNBVQXdOTU8zqFWpfpQAeVj8+lWV6I= for <4151483736665053045>
+[04:05:49]: Client authenticated: (KU_Xe3YI5JC) Qý
+[04:05:49]: [Steam] Authenticated host '76561198309753427'
+[04:05:51]: There is no active event to validate against.
+[04:05:51]: [Shard] Read save location file for (KU_Xe3YI5JC)
+[04:06:19]: Resuming user: session/6415314ECD21339D/A7K6G3H4GL6C
+[04:07:06]: Spawn request: wilson from Qý
+[04:07:06]: Skin request: () (body_webber_gladiator) (hand_webber_punk) (legs_willow_magma) (feet_wx78_nature)
+[04:07:07]: Spawning player at: [Fixed] (-312.00, 0.00, -192.00)	
+[04:07:07]: Serializing user: session/6415314ECD21339D/A7K6G3H4GL6C/0000000005
+[04:07:07]: Sim unpaused
+[04:07:19]: Server Autopaused	
+[04:07:23]: Server Unpaused	
+[04:07:23]: Server Autopaused	
+[04:07:36]: Server Unpaused	
+[04:07:36]: Server Autopaused	
+[04:07:37]: Server Unpaused	
+[04:07:51]: Server Autopaused	
+[04:07:51]: Server Unpaused	
+[04:07:52]: Server Autopaused	
+[04:07:56]: Server Unpaused	
+[04:07:57]: Server Autopaused	
+[04:07:57]: Server Unpaused	
+[04:10:16]: Server Autopaused	
+[04:10:18]: Server Unpaused	
+[04:12:07]: Server Autopaused	
+[04:12:08]: Server Unpaused	
+[04:12:09]: Server Autopaused	
+[04:12:09]: Could not find anim [death] in bank [ghost]
+[04:12:09]: Serializing user: session/6415314ECD21339D/A7K6G3H4GL6C/0000000005
+[04:12:09]: Server Unpaused	
+[04:12:09]: Start world reset countdown... 120 seconds...	
+[04:12:10]: Server Autopaused	
+[04:12:10]: Server Unpaused	
+[04:12:10]: Server Autopaused	
+[04:12:25]: Server Unpaused	
+[04:12:34]: [Steam] SendUserDisconnect for '76561198309753427'
+[04:14:05]: Connection lost to 144.195.121.101|1 <4151483736665053045>
+[04:14:05]: [Shard] (KU_Xe3YI5JC) disconnected from [SHDMASTER](1)
+[04:14:05]: Serializing user: session/6415314ECD21339D/A7K6G3H4GL6C/0000000005
+[04:14:10]: RemoteCommandInput: "qquit()"
+[04:14:10]: [string "qquit()"]:1: variable 'qquit' is not declared
+[04:14:15]: RemoteCommandInput: "quit()"
+[04:14:15]: [string "quit()"]:1: variable 'quit' is not declared
+[04:14:18]: RemoteCommandInput: "quit"
+[04:14:18]: attempt to call a nil value
+[04:14:25]: RemoteCommandInput: "--quit"
+[04:14:27]: RemoteCommandInput: "-quit"
+[04:14:27]: attempt to call a nil value
+[04:14:39]: Available disk space for save files: 25800 MB
+[04:14:40]: Serializing world: session/6415314ECD21339D/0000000005
+[04:14:40]: Removing server from lobby
+[04:14:40]: [Shard] Stopping shard mode
+[04:14:40]: [Steam] SendUserDisconnect for ''
+[04:14:40]: Collecting garbage...
+[04:14:41]: lua_gc took 0.31 seconds
+[04:14:41]: ~ShardLuaProxy()
+[04:14:41]: ~cEventLeaderboardProxy()
+[04:14:41]: ~ItemServerLuaProxy()
+[04:14:41]: ~InventoryLuaProxy()
+[04:14:41]: ~NetworkLuaProxy()
+[04:14:41]: ~SimLuaProxy()
+[04:14:41]: Cancelling LuaQueryCallback handle [9]
+[04:14:41]: lua_close took 0.66 seconds
+[04:14:42]: CurlRequestManager::ClientThread::Main() complete
+[04:14:42]: HttpClient2 discarded 0 callbacks.
+[04:14:42]: Shutting down

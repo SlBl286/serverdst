@@ -1,0 +1,4 @@
+[00:02:17]: [Join Announcement] Qý
+[00:03:31]: [Join Announcement] Steeve
+[00:06:21]: [Leave Announcement] Steeve
+[00:06:25]: [Leave Announcement] Qý

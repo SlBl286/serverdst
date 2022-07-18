@@ -1,0 +1,172 @@
+KLEI     1 return {
+  enabled_mods={
+    ["workshop-1084023218"]={ configuration_options={ Language=false }, enabled=true },
+    ["workshop-1172839635"]={ configuration_options={ icebox_freeze="0.5" }, enabled=true },
+    ["workshop-1207269058"]={ configuration_options={  }, enabled=true },
+    ["workshop-1275167632"]={
+      configuration_options={
+        collect_ability="on",
+        container_size="9",
+        hotkey_mypet="on",
+        level_system="on",
+        modlanguage="auto",
+        recipe_critterlab="off",
+        unique_skill="on" 
+      },
+      enabled=true 
+    },
+    ["workshop-1378549454"]={
+      configuration_options={
+        ["MemSpikeFix:"]=false,
+        MemSpikeFixmaster_override=true,
+        ["MemSpikeFixworkshop-1084023218"]="default",
+        ["MemSpikeFixworkshop-1172839635"]="default",
+        ["MemSpikeFixworkshop-1180681495"]="default",
+        ["MemSpikeFixworkshop-1207269058"]="default",
+        ["MemSpikeFixworkshop-1228256860"]="default",
+        ["MemSpikeFixworkshop-1275167632"]="default",
+        ["MemSpikeFixworkshop-1290774114"]="default",
+        ["MemSpikeFixworkshop-1314390361"]="default",
+        ["MemSpikeFixworkshop-1458450094"]="default",
+        ["MemSpikeFixworkshop-1562531683"]="default",
+        ["MemSpikeFixworkshop-1582864428"]="default",
+        ["MemSpikeFixworkshop-1682381560"]="default",
+        ["MemSpikeFixworkshop-1714836927"]="default",
+        ["MemSpikeFixworkshop-1758335569"]="default",
+        ["MemSpikeFixworkshop-1992293314"]="default",
+        ["MemSpikeFixworkshop-2555930322"]="default",
+        ["MemSpikeFixworkshop-345692228"]="default",
+        ["MemSpikeFixworkshop-352373173"]="default",
+        ["MemSpikeFixworkshop-356398534"]="default",
+        ["MemSpikeFixworkshop-374550642"]="default",
+        ["MemSpikeFixworkshop-375850593"]="default",
+        ["MemSpikeFixworkshop-375859599"]="default",
+        ["MemSpikeFixworkshop-376333686"]="default",
+        ["MemSpikeFixworkshop-378160973"]="default",
+        ["MemSpikeFixworkshop-458587300"]="default",
+        ["MemSpikeFixworkshop-536402022"]="default",
+        ["MemSpikeFixworkshop-668356705"]="default",
+        ["MemSpikeFixworkshop-727774324"]="default",
+        ["MemSpikeFixworkshop-786654500"]="default",
+        ["MemSpikeFixworkshop-804549021"]="default",
+        ["MemSpikeFixworkshop-866623002"]="default",
+        ["MemSpikeFixworkshop-909611569"]="default",
+        ["MemSpikeFixworkshop-956206484"]="default",
+        craftinghighlight=false 
+      },
+      enabled=true 
+    },
+    ["workshop-1758335569"]={ configuration_options={ INITIAL_STATE=1 }, enabled=true },
+    ["workshop-2555930322"]={
+      configuration_options={
+        adjusthealth=false,
+        alterguardian=1,
+        antlion=1,
+        bearger=1,
+        beequeen=1,
+        bossdiaoluo=true,
+        deerclops=1,
+        dragonfly=1,
+        klaus=1,
+        malbatross=1,
+        minotaur=1,
+        moose=1,
+        shadow_bishop=1,
+        shadow_knight=1,
+        shadow_rook=1,
+        stalker_atrium=1,
+        toadstool=1,
+        toadstool_dark=1 
+      },
+      enabled=true 
+    },
+    ["workshop-374550642"]={ configuration_options={ MAXSTACKSIZE=99 }, enabled=true },
+    ["workshop-375850593"]={ configuration_options={  }, enabled=true },
+    ["workshop-378160973"]={
+      configuration_options={
+        ENABLEPINGS=true,
+        FIREOPTIONS=2,
+        OVERRIDEMODE=false,
+        SHAREMINIMAPPROGRESS=true,
+        SHOWFIREICONS=true,
+        SHOWPLAYERICONS=true,
+        SHOWPLAYERSOPTIONS=2 
+      },
+      enabled=true 
+    },
+    ["workshop-866623002"]={
+      configuration_options={
+        _spacer=false,
+        alwaysontikitorch=false,
+        campfire=false,
+        chiminea=false,
+        coldfire=false,
+        coldfirepit=false,
+        deluxe_firepit=false,
+        endo_firepit=false,
+        firepit=false,
+        firepit_obsidian=false,
+        flingomaticfuel=false,
+        flingomaticrange=false,
+        heat_star=false,
+        ice_star=false,
+        maxwelllight_p=false,
+        musha_oven=false,
+        nightlight=false,
+        obsidianfirepit=false,
+        pigtorch=false,
+        sea_chiminea=false,
+        tungsten_firepit=false 
+      },
+      enabled=true 
+    } 
+  },
+  server={
+    clan={ admin=false, id="", only=false },
+    description="for aea2",
+    encode_user_path=true,
+    game_mode="survival",
+    intention="cooperative",
+    max_players=10,
+    name="QyServer",
+    online_mode=true,
+    password="12345sau",
+    privacy_type=0,
+    pvp=false,
+    server_language="en" 
+  },
+  session_id="0B3A4029D2354F35",
+  version=4,
+  world={
+    options={
+      background_node_range={ 0, 1 },
+      desc="Delve into the caves... together!",
+      hideminimap=false,
+      id="DST_CAVE",
+      location="cave",
+      max_playlist_position=999,
+      min_playlist_position=0,
+      name="The Caves",
+      numrandom_set_pieces=0,
+      override_level_string=false,
+      overrides={
+        layout_mode="RestrictNodesByKey",
+        roads="never",
+        season_start="default",
+        start_location="caves",
+        task_set="cave_default",
+        world_size="default",
+        wormhole_prefab="tentacle_pillar" 
+      },
+      required_prefabs={ "multiplayer_portal" },
+      settings_desc="Delve into the caves... together!",
+      settings_id="DST_CAVE",
+      settings_name="The Caves",
+      substitutes={  },
+      version=4,
+      worldgen_desc="Delve into the caves... together!",
+      worldgen_id="DST_CAVE",
+      worldgen_name="The Caves" 
+    } 
+  } 
+}

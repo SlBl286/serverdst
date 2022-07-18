@@ -1,0 +1,359 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 40%
+	Available Physical Memory: 4774m/8074m
+	Available Page File: 6600m/9994m
+	Available Virtual Memory: 134213509m/134217727m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 11m
+	Working Set Size: 11m
+	Quota Peak Page Pool Usage: 168k
+	Quota Page Pool Usage: 167k
+	Quota Peak Non Paged Pool Usage:12k
+	Quota Non Paged Pool Usage: 12k
+	Page File Usage: 3m
+	Peak Page File Usage: 3m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/MyDediServer/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 514408
+[00:00:00]: Current time: Mon Jul 11 21:36:58 2022
+
+[00:00:00]: Don't Starve Together: 514408 WIN32
+[00:00:00]: Build Date: 1235
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -console -cluster MyDediServer -shard Master 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: THREAD - started 'GAClient' (9380)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 27018)
+[00:00:01]: [Steam] SteamGameServer_Init success
+[00:00:01]: ProfileIndex:5.94
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: THREAD - started 'Ping Job Thread' (6852)
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application c:\steamcmd\steamapps\common\Don't Starve Together Dedicated Server\bin64\dontstarve_dedicated_server_nullrenderer_x64.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/MyDediServer/blocklist.txt (Failure)
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/MyDediServer/adminlist.txt (Failure)
+[00:00:01]: THREAD - started 'StreamInput' (4468)
+[00:00:01]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/MyDediServer/whitelist.txt (Failure)
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Home Single Language
+    version                   10.0.19044
+    platformSpecific          SP 0.0
+    architecture              64-bit
+  CPU                       
+    clockSpeed                2400
+    name                      Intel(R) Core(TM) i3-3110M CPU @ 2.40GHz
+    manufacturer              GenuineIntel
+    numCores                  2
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    megsOfRam                 2112
+    videoModeDescription      1024 x 768 x 4294967296 colors
+    name                      Intel(R) HD Graphics 4000
+    driverVersion             10.18.10.4252
+    driverDate                20150710000000.000000-000
+    refreshRate               60
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: AppVersion::GetArchitecture() x64
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:02]:   taskgrouplist:	default	Together	
+[00:00:02]:   taskgrouplist:	classic	Classic	
+[00:00:02]:   taskgrouplist:	cave_default	Underground	
+[00:00:02]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:02]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:02]: Running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:02]: SUCCESS: Loaded modoverrides.lua	
+[00:00:02]: modoverrides.lua enabling workshop-374550642	
+[00:00:02]: modoverrides.lua enabling workshop-1378549454	
+[00:00:02]: modoverrides.lua enabling workshop-378160973	
+[00:00:02]: modoverrides.lua enabling workshop-1275167632	
+[00:00:02]: modoverrides.lua enabling workshop-1207269058	
+[00:00:02]: modoverrides.lua enabling workshop-2555930322	
+[00:00:02]: modoverrides.lua enabling workshop-1172839635	
+[00:00:02]: modoverrides.lua enabling workshop-866623002	
+[00:00:02]: modoverrides.lua enabling workshop-1084023218	
+[00:00:02]: modoverrides.lua enabling workshop-375850593	
+[00:00:02]: modoverrides.lua enabling workshop-1758335569	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1084023218	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1172839635	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1758335569	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-374550642	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-866623002	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2555930322	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1378549454	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1275167632	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1084023218_CLIENT	
+[00:00:02]: Loading mod: workshop-1084023218 (DST Achievement V2
+) Version:2.5.0	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1172839635_CLIENT	
+[00:00:02]: Loading mod: workshop-1172839635 (Better Ice Box) Version:2.0	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1758335569_CLIENT	
+[00:00:02]: Loading mod: workshop-1758335569 ( Level Up!) Version:1.2	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-374550642_CLIENT	
+[00:00:02]: Loading mod: workshop-374550642 (Increased Stack size) Version:1.62	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-375850593_CLIENT	
+[00:00:02]: Loading mod: workshop-375850593 (Extra Equip Slots) Version:1.8.0	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-866623002_CLIENT	
+[00:00:02]: Loading mod: workshop-866623002 (Better Ice Flingomatic) Version:15	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
+[00:00:02]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.15	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2555930322_CLIENT	
+[00:00:02]: Loading mod: workshop-2555930322 (Boss Health Adjust) Version:1.3	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1378549454_CLIENT	
+[00:00:02]: Loading mod: workshop-1378549454 ([API] Gem Core) Version:5.1.41	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:02]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.4	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1275167632_CLIENT	
+[00:00:02]: Loading mod: workshop-1275167632 (MyPet) Version:2.4.7	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-374550642	
+[00:00:02]: Overriding mod workshop-374550642's option MAXSTACKSIZE with value 99	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1378549454	
+[00:00:02]: Overriding mod workshop-1378549454's option craftinghighlight with value false	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:02]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:02]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:02]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:02]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:02]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:02]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:02]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1275167632	
+[00:00:02]: Overriding mod workshop-1275167632's option unique_skill with value on	
+[00:00:02]: Overriding mod workshop-1275167632's option hotkey_mypet with value on	
+[00:00:02]: Overriding mod workshop-1275167632's option level_system with value on	
+[00:00:02]: Overriding mod workshop-1275167632's option recipe_critterlab with value off	
+[00:00:02]: Overriding mod workshop-1275167632's option container_size with value 9	
+[00:00:02]: Overriding mod workshop-1275167632's option modlanguage with value auto	
+[00:00:02]: Overriding mod workshop-1275167632's option collect_ability with value on	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2555930322	
+[00:00:02]: Overriding mod workshop-2555930322's option antlion with value 1	
+[00:00:02]: Overriding mod workshop-2555930322's option bearger with value 1	
+[00:00:02]: Overriding mod workshop-2555930322's option moose with value 1	
+[00:00:02]: Overriding mod workshop-2555930322's option shadow_rook with value 1	
+[00:00:02]: Overriding mod workshop-2555930322's option adjusthealth with value false	
+[00:00:02]: Overriding mod workshop-2555930322's option shadow_bishop with value 1	
+[00:00:02]: Overriding mod workshop-2555930322's option bossdiaoluo with value true	
+[00:00:02]: Overriding mod workshop-2555930322's option malbatross with value 1	
+[00:00:02]: Overriding mod workshop-2555930322's option stalker_atrium with value 1	
+[00:00:02]: Overriding mod workshop-2555930322's option dragonfly with value 1	
+[00:00:02]: Overriding mod workshop-2555930322's option deerclops with value 1	
+[00:00:03]: Overriding mod workshop-2555930322's option alterguardian with value 1	
+[00:00:03]: Overriding mod workshop-2555930322's option shadow_knight with value 1	
+[00:00:03]: Overriding mod workshop-2555930322's option toadstool_dark with value 1	
+[00:00:03]: Overriding mod workshop-2555930322's option beequeen with value 1	
+[00:00:03]: Overriding mod workshop-2555930322's option toadstool with value 1	
+[00:00:03]: Overriding mod workshop-2555930322's option minotaur with value 1	
+[00:00:03]: Overriding mod workshop-2555930322's option klaus with value 1	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-1172839635	
+[00:00:03]: Overriding mod workshop-1172839635's option icebox_freeze with value 0.5	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-866623002	
+[00:00:03]: Overriding mod workshop-866623002's option pigtorch with value false	
+[00:00:03]: Overriding mod workshop-866623002's option campfire with value false	
+[00:00:03]: Overriding mod workshop-866623002's option heat_star with value false	
+[00:00:03]: Overriding mod workshop-866623002's option nightlight with value false	
+[00:00:03]: Overriding mod workshop-866623002's option chiminea with value false	
+[00:00:03]: Overriding mod workshop-866623002's option maxwelllight_p with value false	
+[00:00:03]: Overriding mod workshop-866623002's option firepit_obsidian with value false	
+[00:00:03]: Overriding mod workshop-866623002's option ice_star with value false	
+[00:00:03]: Overriding mod workshop-866623002's option coldfirepit with value false	
+[00:00:03]: Overriding mod workshop-866623002's option sea_chiminea with value false	
+[00:00:03]: Overriding mod workshop-866623002's option musha_oven with value false	
+[00:00:03]: Overriding mod workshop-866623002's option obsidianfirepit with value false	
+[00:00:03]: Overriding mod workshop-866623002's option coldfire with value false	
+[00:00:03]: Overriding mod workshop-866623002's option endo_firepit with value false	
+[00:00:03]: Overriding mod workshop-866623002's option firepit with value false	
+[00:00:03]: Overriding mod workshop-866623002's option alwaysontikitorch with value false	
+[00:00:03]: Overriding mod workshop-866623002's option flingomaticfuel with value false	
+[00:00:03]: Overriding mod workshop-866623002's option flingomaticrange with value false	
+[00:00:03]: Overriding mod workshop-866623002's option deluxe_firepit with value false	
+[00:00:03]: Overriding mod workshop-866623002's option tungsten_firepit with value false	
+[00:00:03]: Overriding mod workshop-866623002's option _spacer with value false	
+[00:00:03]: Overriding mod workshop-866623002's option _spacer with value false	
+[00:00:03]: Overriding mod workshop-866623002's option _spacer with value false	
+[00:00:03]: Overriding mod workshop-866623002's option _spacer with value false	
+[00:00:03]: Overriding mod workshop-866623002's option _spacer with value false	
+[00:00:03]: Overriding mod workshop-866623002's option _spacer with value false	
+[00:00:03]: Overriding mod workshop-866623002's option _spacer with value false	
+[00:00:03]: Overriding mod workshop-866623002's option _spacer with value false	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-1084023218	
+[00:00:03]: Overriding mod workshop-1084023218's option Language with value false	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-1758335569	
+[00:00:03]: Overriding mod workshop-1758335569's option INITIAL_STATE with value 1	
+[00:00:03]: Mod: workshop-1378549454 ([API] Gem Core)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-1378549454 ([API] Gem Core)	Loading modbackendmain.lua	
+[00:00:03]: modimport: ../mods/workshop-1378549454/gemscripts/gemrun	
+[00:00:03]: modimport: ../mods/workshop-1378549454/gemscripts/legacy_modbackendmain	
+[00:00:03]: Mod: workshop-1378549454 ([API] Gem Core)	Loading modmain.lua	
+[00:00:03]: modimport: ../mods/workshop-1378549454/gemscripts/legacy_modmain	
+[00:00:03]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modbackendmain.lua	
+[00:00:03]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-1275167632 (MyPet)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-1275167632 (MyPet)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1275167632 (MyPet)	Loading modbackendmain.lua	
+[00:00:03]: Mod: workshop-1275167632 (MyPet)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1275167632 (MyPet)	Loading modmain.lua	
+[00:00:03]: modimport: ../mods/workshop-1275167632/scripts/musha_adds_actions.lua	
+[00:00:03]: modimport: ../mods/workshop-1275167632/scripts/critter_adds_container.lua	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1084023218	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1172839635	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1758335569	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-374550642	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-866623002	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2555930322	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1378549454	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1275167632	
+[00:00:03]: modimport: ../mods/workshop-1275167632/scripts/strings_critter_en.lua	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1084023218	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1172839635	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1758335569	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-374550642	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-866623002	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2555930322	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1378549454	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1275167632	
+[00:00:03]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	musha_nametag	
+[00:00:03]: modimport: ../mods/workshop-1275167632/libs/use.lua	
+[00:00:03]: Mod: workshop-374550642 (Increased Stack size)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-374550642 (Increased Stack size)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-374550642 (Increased Stack size)	Loading modbackendmain.lua	
+[00:00:03]: Mod: workshop-374550642 (Increased Stack size)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-374550642 (Increased Stack size)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-1084023218 (DST Achievement V2
+)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-1084023218 (DST Achievement V2
+)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1084023218 (DST Achievement V2
+)	Loading modbackendmain.lua	
+[00:00:03]: Mod: workshop-1084023218 (DST Achievement V2
+)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1084023218 (DST Achievement V2
+)	Loading modmain.lua	
+[00:00:03]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	achivbook_birds	
+[00:00:03]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	achivbook_gardening	
+[00:00:03]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	achivbook_sleep	
+[00:00:03]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	achivbook_brimstone	
+[00:00:03]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	achivbook_tentacles	
+[00:00:03]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	klaus_sack	
+[00:00:03]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	deer_antler1	
+[00:00:03]: Mod: workshop-2555930322 (Boss Health Adjust)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-2555930322 (Boss Health Adjust)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-2555930322 (Boss Health Adjust)	Loading modbackendmain.lua	
+[00:00:03]: Mod: workshop-2555930322 (Boss Health Adjust)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-2555930322 (Boss Health Adjust)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-866623002 (Better Ice Flingomatic)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-866623002 (Better Ice Flingomatic)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-866623002 (Better Ice Flingomatic)	Loading modbackendmain.lua	
+[00:00:03]: Mod: workshop-866623002 (Better Ice Flingomatic)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-866623002 (Better Ice Flingomatic)	Loading modmain.lua	
+[00:00:03]: MOD-866623002 INFO: Starting to process instructions.	
+[00:00:03]: MOD-866623002 INFO: Finished processing instructions.	
+[00:00:03]: Mod: workshop-1758335569 ( Level Up!)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-1758335569 ( Level Up!)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1758335569 ( Level Up!)	Loading modbackendmain.lua	
+[00:00:03]: Mod: workshop-1758335569 ( Level Up!)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1758335569 ( Level Up!)	Loading modmain.lua	
+[00:00:03]: modimport: ../mods/workshop-1758335569/scripts/patches/wolfgangchanges.lua	
+[00:00:03]: modimport: ../mods/workshop-1758335569/scripts/patches/wx78changes.lua	
+[00:00:03]: modimport: ../mods/workshop-1758335569/scripts/patches/playerchanges.lua	
+[00:00:03]: Mod: workshop-1172839635 (Better Ice Box)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-1172839635 (Better Ice Box)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1172839635 (Better Ice Box)	Loading modbackendmain.lua	
+[00:00:03]: Mod: workshop-1172839635 (Better Ice Box)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1172839635 (Better Ice Box)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	Loading modbackendmain.lua	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1084023218	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1172839635	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1758335569	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-374550642	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-866623002	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2555930322	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1378549454	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1275167632	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modbackendmain.lua	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-1378549454 ([API] Gem Core)	Loading modmainpostinit.lua	
+[00:00:03]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modmainpostinit.lua	
+[00:00:03]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:03]: Mod: workshop-1275167632 (MyPet)	Loading modmainpostinit.lua	
+[00:00:03]: Mod: workshop-1275167632 (MyPet)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:03]: Mod: workshop-374550642 (Increased Stack size)	Loading modmainpostinit.lua	
+[00:00:03]: Mod: workshop-374550642 (Increased Stack size)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:03]: Mod: workshop-1084023218 (DST Achievement V2
+)	Loading modmainpostinit.lua	
+[00:00:03]: Mod: workshop-1084023218 (DST Achievement V2
+)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:03]: Mod: workshop-2555930322 (Boss Health Adjust)	Loading modmainpostinit.lua	
+[00:00:03]: Mod: workshop-2555930322 (Boss Health Adjust)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:03]: Mod: workshop-866623002 (Better Ice Flingomatic)	Loading modmainpostinit.lua	
+[00:00:03]: Mod: workshop-866623002 (Better Ice Flingomatic)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:03]: Mod: workshop-1758335569 ( Level Up!)	Loading modmainpostinit.lua	
+[00:00:03]: Mod: workshop-1758335569 ( Level Up!)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:03]: Mod: workshop-1172839635 (Better Ice Box)	Loading modmainpostinit.lua	
+[00:00:03]: Mod: workshop-1172839635 (Better Ice Box)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	Loading modmainpostinit.lua	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmainpostinit.lua	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:03]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
